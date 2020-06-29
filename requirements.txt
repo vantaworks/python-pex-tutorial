@@ -1,0 +1,6 @@
+dicttoxml
+Flask
+gunicorn
+numpy
+pip_module_scanner
+xmltodict
